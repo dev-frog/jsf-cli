@@ -1,0 +1,19 @@
+{
+  "name": "jsf-cli",
+  "version": "1.0.0",
+  "description": "script to instantiating project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev-frog",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
